@@ -17,3 +17,5 @@ This project aims to provide a comprehensive guide for troubleshooting various i
    - [File Systems Corruption](intermediate/file_system_corruption.md)
    - [Remote Desktop Connection Issues](intermediate/remote_desktop_connection_issues.md)
 3. Advanced Troubleshooting
+   - [BSOD](advanced/bsod.md)
+
