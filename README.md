@@ -10,5 +10,8 @@ This project aims to provide a comprehensive guide for troubleshooting various i
    - [Application Issues](basic/application_issues.md)
    - [Printer Issues](basic/printer_issues.md)
    - [Audio and Video Problems](basic/audio_and_video_problems.md)
-3. Intermediate Troubleshooting
-4. Advanced Troubleshooting
+2. Intermediate Troubleshooting
+   - [Account and Permissions Problems](intermediate/accounts_permissions_problems.md)
+   - [Driver Issues](intermediate/driver_issues.md)
+ 
+3. Advanced Troubleshooting
