@@ -7,5 +7,8 @@ This project aims to provide a comprehensive guide for troubleshooting various i
    - [Startup Problems](basic/startup_problems.md)
    - [System Performance Issues](basic/system_performance_issues.md)
    - [Network Connectivity Problems](basic/network_connectivity_problems.md)
+   - [Application Issues](basic/application_issues.md)
+   - [Printer Issues](basic/printer_issues.md)
+   - [Audio and Video Problems](basic/audio_and_video_problems.md)
 3. Intermediate Troubleshooting
 4. Advanced Troubleshooting
