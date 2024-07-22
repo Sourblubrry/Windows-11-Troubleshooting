@@ -18,4 +18,8 @@ This project aims to provide a comprehensive guide for troubleshooting various i
    - [Remote Desktop Connection Issues](intermediate/remote_desktop_connection_issues.md)
 3. Advanced Troubleshooting
    - [BSOD](advanced/bsod.md)
+   - [Group Policy Issues](advanced/group_policy_issues.md)
+   - [Advanced Network Configuration Problems](advanced/advanced_network_configuration_problems.md)
+   - [Virtualization and Hyper-V Problems](advanced/virtualization_and_hyper-v_problems.md)
+   - [Security and Malware Issues](advanced/security_and_malware_issues.md)
 
