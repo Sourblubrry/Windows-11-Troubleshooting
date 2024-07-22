@@ -13,5 +13,7 @@ This project aims to provide a comprehensive guide for troubleshooting various i
 2. Intermediate Troubleshooting
    - [Account and Permissions Problems](intermediate/accounts_permissions_problems.md)
    - [Driver Issues](intermediate/driver_issues.md)
- 
+   - [Windows Update Failures](intermediate/windows_update_failures.md)
+   - [File Systems Corruption](intermediate/file_system_corruption.md)
+   - [Remote Desktop Connection Issues](intermediate(remote_desktop_connection_issues.md
 3. Advanced Troubleshooting
