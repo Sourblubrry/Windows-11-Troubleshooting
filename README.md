@@ -5,5 +5,6 @@ This project aims to provide a comprehensive guide for troubleshooting various i
 ##Table of Contents
 1. Basic Troubleshooting
    - [Startup Problems](basic/startup_problems.md)
+   - [System Performance Issues](basic/system_performance_issues.md)
 3. Intermediate Troubleshooting
 4. Advanced Troubleshooting
