@@ -19,7 +19,6 @@ This project aims to provide a comprehensive guide for troubleshooting various i
 3. Advanced Troubleshooting
    - [BSOD](advanced/bsod.md)
    - [Group Policy Issues](advanced/group_policy_issues.md)
-   - [Advanced Network Configuration Problems](advanced/advanced_network_configuration_problems.md)
-   - [Virtualization and Hyper-V Problems](advanced/virtualization_and_hyper-v_problems.md)
-   - [Security and Malware Issues](advanced/security_and_malware_issues.md)
-
+   - [Advanced Network Configuration](advanced/advanced_network_configuration.md)
+   - [Virtualization and Hyper-V](advanced/virtualization_and_hyper-v_problems.md)
+   - [Security and Malware](advanced/security_and_malware_issues.md)
